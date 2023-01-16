@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Margin & Padding-->
+    <dimen name="drawable_padding">4dp</dimen>
+    <dimen name="edit_texts_margin">8dp</dimen>
+
+    <dimen name="xxx_large_margin">72dp</dimen>
+    <dimen name="xxx_large_padding">72dp</dimen>
+    <dimen name="xx_large_margin">64dp</dimen>
+    <dimen name="xx_large_padding">64dp</dimen>
+    <dimen name="x_large_margin">32dp</dimen>
+    <dimen name="x_large_padding">32dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="large_padding">24dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="medium_padding">16dp</dimen>
+    <dimen name="small_margin">12dp</dimen>
+    <dimen name="small_padding">12dp</dimen>
+    <dimen name="x_small_margin">8dp</dimen>
+    <dimen name="x_small_padding">8dp</dimen>
+    <dimen name="tiny_margin">6dp</dimen>
+    <dimen name="tiny_padding">6dp</dimen>
+    <dimen name="bb_default_elevation">@dimen/app_bar_elevation</dimen>
+    <dimen name="edittext_hint_text_size">14sp</dimen>
+
+    <!--Shapes-->
+    <!--Button Radius-->
+    <dimen name="button_radius">15dp</dimen>
+
+    <dimen name="rounded_fields">16dp</dimen>
+
+    <dimen name="slider_height">250dp</dimen>
+
+    <!--Utility-->
+    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="default_card_elevation">8dp</dimen>
+    <dimen name="pressed_card_elevation">8dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="pressed_fab_elevation">12dp</dimen>
+    <dimen name="my_reviews_activity_bg_radius">8dp</dimen>
+    <dimen name="dialog_height">140dp</dimen>
+    <dimen name="right_arrow_height">20dp</dimen>
+    <dimen name="chat_bubble_size">20dp</dimen>
+    <dimen name="tab_text_max_width">80dp</dimen>
+    <dimen name="badge_text_size">11sp</dimen>
+    <dimen name="tab_text_size">11sp</dimen>
+    <!--____________________________________________________________________________-->
+
+
+</resources>
